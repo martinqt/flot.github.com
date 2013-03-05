@@ -1,6 +1,5 @@
 name: Flot
 description: Attractive JavaScript plotting for jQuery
-url: http://flotcharts.org
 
 markdown: redcarpet
 permalink: /blog/:year/:month/:day/:title/
